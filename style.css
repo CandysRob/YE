@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(65, 105, 225);
+    border-radius: 5px;
+    padding: 5px;
+    margin: 15px;
+    text-align: center;
+}
+h1 {
+    background-color: rgb(255, 145, 0);
+    border-radius: 5px;
+    padding: 5px;
+    margin: 15px;
+    text-align: center;
+}
+h4 {
+    background-color: rgb(174, 36, 187);
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+p {
+    background-color: rgb(183, 185, 183);
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
